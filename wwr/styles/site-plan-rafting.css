@@ -3,7 +3,7 @@
 :root {
     --primary-color: #064e8d;
     --secondary-color: #e68f26;
-    --accent1-color: #fff;
+    --accent1-color: #EFE9CE;
     --accent2-color: #000000;
   
     --heading-font: Sarabun, serif;
@@ -11,7 +11,7 @@
   
     --nav-background-color: #EFE9CE;
     --nav-link-color: #064e8d;
-    --nav-hover-link-color: #fff;
+    --nav-hover-link-color: #EFE9CE;
     --nav-hover-background-color: rgba(6, 78, 141, 8);
   }
           
